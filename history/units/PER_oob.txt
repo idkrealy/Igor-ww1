@@ -1,0 +1,112 @@
+#Leaders
+leader = {
+	name = "Mohammed Shah Qajar"
+	date = 1834.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.5
+}
+
+army = {
+	name = "Army of Persia"
+	location = 1121
+	regiment = {
+		name= "1. Cavalry Brigade"
+		type = hussar
+		home = 1121
+	}
+
+	regiment = {
+		name= "2. Cavalry Brigade"
+		type = artillery
+		home = 1147
+	}
+
+	regiment = {
+		name= "3. Cavalry Brigade"
+		type = artillery
+		home = 1125
+	}
+
+	regiment = {
+		name= "1. Bakhsh-i Piyadenizam"
+		type = artillery
+		home = 1127
+	}
+
+	regiment = {
+		name= "3. Bakhsh-i Piyadenizam"
+		type = artillery
+		home = 1137
+	}
+	
+	regiment = {
+		name= "17. Bakhsh-i Piyadenizam"
+		type = artillery
+		home = 1114
+	}
+}
+
+army = {
+	location = 1146
+	name = "Eastern Army of Persia"
+	regiment = {
+		name= "4. Bakhsh-i Piyadenizam"
+		type = hussar
+		home = 1117
+	}
+
+	regiment = {
+		name= "7. Bakhsh-i Piyadenizam"
+		type = artillery
+		home = 1122
+	}
+
+	regiment = {
+		name= "8. Bakhsh-i Piyadenizam"
+		type = artillery
+		home = 1129
+	}
+}
+
+army = {
+	name = "Northern Army of Persia"
+	location = 1149
+	regiment = {
+		name= "18. Bakhsh-i Piyadenizam"
+		type = hussar
+		home = 1145
+	}
+	
+	regiment = {
+		name= "10. Bakhsh-i Piyadenizam"
+		type = artillery
+		home = 1108
+	}
+
+	regiment = {
+		name= "11. Bakhsh-i Piyadenizam"
+		type = artillery
+		home = 1150
+	}
+
+	regiment = {
+		name= "12. Bakhsh-i Piyadenizam"
+		type = artillery
+		home = 1111
+	}
+
+	regiment = {
+		name= "13. Bakhsh-i Piyadenizam"
+		type = artillery
+		home = 1135
+	}
+
+	regiment = {
+		name= "15 Bakhsh-i Piyadenizam"
+		type = artillery
+		home = 1148
+	}
+
+}
